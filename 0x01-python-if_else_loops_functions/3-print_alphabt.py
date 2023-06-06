@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-for i in range(ord('a'), ord('z') + 1):
-    if chr(i) not in ['q', 'e']:
-        print("{}".format(chr(i)), end = '')
+# Author - Abdelkader
+for letter in range(97, 123):
+    if chr(letter) != 'q' and chr(letter) != 'e':
+        print("{}".format(chr(letter)), end="")
