@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "Python.h"
+=======
+#include <Python.h>
+>>>>>>> d9f301ce6186908178b9177aeb303bbdc9687041
 
 /**
  * print_python_string - Prints information about Python strings.
