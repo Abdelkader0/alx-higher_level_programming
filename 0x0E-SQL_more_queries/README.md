@@ -1,7 +1,7 @@
 # 0x0E. SQL - More Queries
 ## This directory contains answer files to [Holberton School](https://www.holbertonschool.com/) higher level programming project 0x0E
 
-### Covered Topics
+### Covered Topics ... 
 * How to create a new MySQL user
 * How to manage privileges for a user to a database or table
 * What’s a PRIMARY KEY
